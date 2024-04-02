@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my23_rect_sports_pxp_fav_text_normal_color">#D34444</color>
+    <color name="my23_rect_sports_pxp_fav_text_pressed_color">#01D4FA</color>
+    <color name="my23_rect_sports_pxp_fav_text_selected_color">#FFEB3B</color>
+    <color name="my23_rect_sports_pxp_fav_text_disabled_color">#ABABAB</color>
+    <color name="rect_normal">#4289E1</color>
+    <color name="rect_primary">#1DE3D0</color>
+    <color name="rect_secondary">#2793D5</color>
+    <color name="rect_disabled">#7F7F7F</color>
+    <color name="bg">#1A6B9C</color>
+</resources>

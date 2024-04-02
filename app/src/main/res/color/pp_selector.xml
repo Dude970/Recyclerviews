@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Copyright (C) GM Global Technology Operations LLC 2023.-->
+<!--All Rights Reserved.-->
+<!--GM Confidential Restricted.-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/my23_rect_sports_pxp_fav_text_disabled_color" android:state_enabled="false" />
+    <item android:color="@color/my23_rect_sports_pxp_fav_text_pressed_color" android:state_pressed="true" />
+    <item android:color="@color/my23_rect_sports_pxp_fav_text_selected_color" android:state_pressed="true" />
+    <item android:color="@color/my23_rect_sports_pxp_fav_text_normal_color"  />
+</selector>
